@@ -1,7 +1,7 @@
 {
-  "name": "posting-time",
+  "name": "SickFlightz",
   "version": "1.0.0",
-  "description": "Best Posting Time for Instagram",
+  "description": "Find mad cheap flights on a sick app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
